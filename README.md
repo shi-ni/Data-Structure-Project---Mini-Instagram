@@ -1,4 +1,4 @@
-# 📱 Social Media Simulator (C++ Data Structures Project)
+# 📱 Mini Instagram (C++ Data Structures Project)
 
 A console-based application demonstrating core social media features using efficient data structures.
 
